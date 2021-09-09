@@ -14,7 +14,7 @@
 
 # 이분 탐색 (Binary Search)
 
-
+- 결정 알고리즘으로 사용 됨
 
 
 
@@ -150,7 +150,10 @@ console.log(bubbleSort(arr));
 
 # 삽입 정렬
 
-
+- 시간 복잡도
+  - Best : n^2
+  - Avg : n^2
+  - Worst : n^2
 
 
 
